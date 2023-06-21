@@ -1,0 +1,38 @@
+﻿^contentpage{
+    background-color: black;
+}
+.PageBackgroundColor {
+
+    background-color: black;
+}
+
+#header {
+    font-size:32;
+    font-weight:bolder;
+    color:black;
+}
+
+
+Button{background-color:brown;color:white;}
+
+label{
+    color:white;
+}
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle{
+    font-size:16;
+    background-color:white;
+}
+#styleMe {
+    font-size: 24;
+    background-color: white;
+    color:black;
+}
+#styleMe2{
+    font-size: 18;
+    background-color: black;
+    color: white;
+}
